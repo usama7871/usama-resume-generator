@@ -2,13 +2,21 @@
 
 ## Description
 
-A simple resume builder application built with Next.js and Tailwind CSS. The application allows users to create a resume by filling out a form. The resume can be downloaded as a PDF file.
+🌟 Overview
+Welcome to Resume Builder, a dynamic and user-friendly application designed to help you create stunning resumes effortlessly! Built with Next.js and styled with Tailwind CSS, this application empowers you to craft personalized resumes tailored to your unique professional journey. The best part? You can download your resume as a beautifully formatted PDF file with just a click!
+
+📚 Features
+User-Friendly Interface: Intuitive form-based input for easy resume creation.
+Real-Time Preview: See your resume update in real-time as you fill out the form.
+PDF Download: Save your resume in a clean, professional PDF format.
+Customizable Templates: Choose from various templates to match your style.
+Responsive Design: Perfectly formatted for all devices.
 
 #### How to Run the Project
 
 1. Clone the repo
    ```
-   $ git clone https://github.com/arunike/resume-builder
+   $ https://github.com/usama7871/usama-resume-generator
    ```
 2. Install the dependencies
    ```
